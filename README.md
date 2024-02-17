@@ -8,5 +8,7 @@
 ___
 
 ### Video onde mostro o passo a passo da criação!
+
 [**YouTube Video**](https://youtu.be/VkqCIIPLY24)
-[![[YouTube Thumb](./assets/thumb.png)](https://youtu.be/VkqCIIPLY24)
+[![YouTube Thumb](./assets/thumb.png)](https://youtu.be/VkqCIIPLY24)
+
