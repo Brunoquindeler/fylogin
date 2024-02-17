@@ -1,0 +1,8 @@
+Website = "https://fylogin.app"
+
+[Details]
+  Icon = "assets/icon.png"
+  Name = "FyLogin"
+  ID = "app.fylogin"
+  Version = "0.0.1"
+  Build = 2
